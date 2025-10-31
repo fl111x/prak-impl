@@ -17,8 +17,5 @@ public class Motorcycle implements VehicleInterface {
 
     }
 
-//    @Override
-//    public void openDoors() {
-//
-//    }
+
 }
